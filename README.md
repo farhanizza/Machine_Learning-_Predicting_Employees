@@ -1,5 +1,5 @@
 # Machine_Learning-_Predicting_Employees
-Classification Predicting whether employees will leave or not
+Supervised Classification Predicting whether employees will leave or not
 
 Model Decision Tree have get Accuracy Score Model Decision Tree: 81.23%
 
